@@ -1,0 +1,95 @@
+<style>
+                            @import url('http://fonts.cdnfonts.com/css/black-clover-font');
+</style>
+                
+
+body{
+    background-color: #dbdbdb;
+  }
+  .logo{
+    width: 120px;
+    cursor: pointer;
+  }
+  .navbar-brand{
+    font-style: oblique;
+    font-size: xx-large;
+    font-family: 'Black Clover Font', sans-serif;
+  }
+  .nav-item{
+    font-size: large;
+    font-style: normal;
+    font-family: 'Black Clover Font', sans-serif;
+  }
+  .row{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .row h3{
+    font-size: xx-large;
+    font-family: 'Black Clover Font', sans-serif;
+  }
+  .row p{
+    font-size: large;
+    font-family: 'Black Clover Font', sans-serif;
+    
+  }
+  .content{
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    padding-top: 40px;
+    background-color: #8e8e92;
+    padding-bottom: 30px;
+  }
+  .content p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    padding-left: 450px;
+    padding-right: 450px;
+    font-size: larger;
+  }
+  button{
+    width: 200px;
+    text-align: center;
+    border-radius: 25px;
+    background: transparent;
+    padding: 10px 0;
+    margin-top: 20px;
+  }
+  button:hover{
+    background-color: rgb(92, 90, 90);
+  }
+  .pic-con{
+    width: 300px;
+  }
+  .background-content{
+    width: 400px;
+  }
+  .container{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    justify-content: space-between;
+  }
+  .col-bg{
+    width: 400px;
+    padding-bottom: 20px;
+  }
+  .col{
+    background-color: rgb(43, 42, 42);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color:rgb(255, 246, 246)
+  }
+  .banner{
+    padding-top: 50px;
+    text-align: center;
+  }
+  .banner h2{
+    text-align: center;
+    padding-bottom: 20px;
+  }
